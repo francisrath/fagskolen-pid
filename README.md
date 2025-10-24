@@ -68,6 +68,9 @@ fagskolen-pid/
 * Faktiske målinger fra PCB kobles inn via UART eller WiFi.
 * Temperaturdata logges og sammenlignes i grafer.
 
+
+<img width="1448" height="2573" alt="image" src="https://github.com/user-attachments/assets/abf86970-592d-4cec-ae38-d2487c4d9fec" />
+
 ---
 
 ## 📜 Lisens
